@@ -9,3 +9,5 @@ IV.	Errores de los clientes (400–499),
 V.	y errores de los servidores (500–599).
 
 Los códigos de estado se definen en la sección 10 de RFC 2616. Puedes obtener las especificaciones actualizadas en RFC 7231.
+
+viejon, como andas? vamos por el 100!!
