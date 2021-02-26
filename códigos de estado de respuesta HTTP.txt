@@ -1,0 +1,11 @@
+Investigar códigos de estado de respuesta HTTP
+
+Un código de estado es una parte de la respuesta devuelta por el servidor cuando un cliente (por ejemplo, un navegador) llama a una URL. Con la ayuda de un código de estado, el servidor indica al cliente si la solicitud se ha procesado correctamente o si se ha producido un error.
+Las respuestas se agrupan en cinco clases:
+I.	Respuestas informativas (100–199),
+II.	Respuestas satisfactorias (200–299),
+III.	Redirecciones (300–399),
+IV.	Errores de los clientes (400–499),
+V.	y errores de los servidores (500–599).
+
+Los códigos de estado se definen en la sección 10 de RFC 2616. Puedes obtener las especificaciones actualizadas en RFC 7231.
